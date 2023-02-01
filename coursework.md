@@ -25,18 +25,6 @@ WHY — WHAT — HOW
 
 - Exponential Organization</br>
 
-  - N.N
-
-- Holacracy </br>
-
-  - N.N
-
-- Ambidextrous Organization<br/>
-
-  - N.N
-
----
-
 ## Presentations
 
 ~20-30min / person
@@ -47,11 +35,15 @@ WHY — WHAT — HOW
 
 - Voting systems
 
+  Alexander
+
 - Measuring Organizational Culture, e.g. Netflix / Hubspot<br/>
 
-  - N.N.
+  Martin
 
 - Agile Organisation, example Sipgate
+
+  Varayu
 
 ---
 
@@ -59,9 +51,15 @@ WHY — WHAT — HOW
 
 - Self-Management, example Morningstar
 
+  Ashir
+
 - Salary Systems of Buffer and Sipgate
 
-- (Reinventing Organization)
+  Yasmine
+
+- Holacracy </br>
+
+  Bryan
 
 ---
 
