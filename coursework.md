@@ -63,4 +63,20 @@ WHY — WHAT — HOW
 
 ---
 
+#### 2023-05-17
+
+- Exponential Organisation
+
+  Matteo
+
+- Hierarchy — is it a natural order
+
+  Syed
+
+- Ambidextrous Organisation
+
+  Seva
+
+---
+
 Thank you!
